@@ -1,0 +1,269 @@
+.facebookhead{
+    background-color:#1c1e21;/* black theme#423144;purple looks sexy af #3b5998; blue*/
+    height: 5.2rem;
+    position: relative;
+
+}
+body{
+  margin: 0;
+background-color: #dfe1ee;
+
+}
+.account1{
+  position: absolute;
+  top:145px;
+  left:850px;
+  color: #2b3c63;
+  font-family: 'Roboto', sans-serif;
+}
+.account{
+  position: absolute;
+  top:85px;
+  left:850px;
+  color: #2b3c63;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+}
+.head2{
+  position: absolute;
+  left:275px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #2b3c63;
+  top: 110px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.global{
+  height: 275px;
+  width: 275px;
+  position: absolute;
+  top:180px;
+  left: 400px;
+}
+.fb{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  margin: 0;
+  position: absolute;
+  top : 1.4rem;
+  left : 17rem;
+  text-decoration: none;
+  font-size: 2.375rem;
+
+}
+.xyz{
+  font-size: 18px;
+}
+.logind{
+  position: absolute;
+  color: white;
+  font-size: 0.75rem;
+  left:54.5rem;
+  top:0.3625rem;
+  font-family: arial;
+  border-width: thin;
+}
+.login{
+  position: absolute;
+  top:2.3125rem;
+  left:54.5rem;
+
+}
+.logind1{
+  position: absolute;
+  color: white;
+  font-size: 0.75rem;
+  left:66rem;
+  top:0.3625rem;
+  font-family: arial;
+
+}
+.login1{
+  position: absolute;
+  top:2.3125rem;
+  left:66rem;
+}
+.logind2{
+  position: absolute;
+  color: white;
+  font-size: 0.75rem;
+  left:66rem;
+  top:3.1rem;
+  font-family: arial;
+
+
+}
+.button{
+  position: absolute;
+  top:2.3125rem;
+  left: 77rem;
+  color: white;
+  background-color: #393e46;
+  border-width:thin;
+}
+.firstname{
+  position: absolute;
+  height: 40px;
+  border-radius: 8px;
+  top:200px;
+  left:850px;
+  border-width: thin;
+  width: 190px;
+  padding-left: 15px;
+  padding-right: 10px;
+  border-color: lightblue;
+
+}
+.Email{
+  position: absolute;
+  height: 40px;
+  border-radius: 8px;
+
+  top:255px;
+  left:850px;
+  border-width: thin;
+  width: 400px;
+  padding-left: 15px;
+  padding-right: 10px;
+  border-color: lightblue;
+
+}
+.lastname{
+  position: absolute;
+  height: 40px;
+  border-radius: 2%;
+  top:200px;
+  left:1080px;
+  border-width: thin;
+  width: 170px;
+  padding-left: 15px;
+  padding-right: 10px;
+  border-color: lightblue;
+border-radius: 8px;
+}
+.password{position: absolute;
+height: 40px;
+border-radius: 2%;
+top:310px;
+left:850px;
+border-width: thin;
+width: 400px;
+padding-left: 15px;
+padding-right: 10px;
+border-color: lightblue;
+border-radius: 8px;
+}
+.dob{
+  position: absolute;
+  color: #393e46;
+  top:350px;
+  left:850px;
+  font-size: 18px;
+}
+.dob1{
+  position: absolute;
+
+  top:395px;
+  left:850px;
+height: 30px;
+width: 200px;
+}
+.gender{
+  position: absolute;
+  color: #393e46;
+  top:420px;
+  left:850px;
+  font-size: 18px;
+}
+.female{
+  position: absolute;
+  top:470px;
+  left: 860px;
+
+}
+.male{
+  position: absolute;
+  top: 470px;
+  left:955px;
+}
+.custom{
+  position: absolute;
+  top: 470px;
+  left: 1030px;
+
+}
+.question{
+  position: absolute;
+  top: 467px;
+  left: 1120px;
+  height: 20px;
+  width: 20px;
+}
+.checkmark{
+position: absolute;
+top:2px;
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.terms{
+  position: absolute;
+  color: #393e46;
+  top:490px;
+  left:850px;
+  font-size: 11px;
+  line-height: 1.5;
+font-family: sans-serif;
+}
+.button1{
+  position: absolute;
+font-family: 'Roboto', sans-serif;
+top:570px;
+left:850px;
+color: white;
+background-color: #393e46;
+border-width:thin;
+height: 40px;
+width: 190px;
+border-color: black;
+font-size: 20px;
+border-radius: 5px;
+cursor: pointer;
+}
+.button1:hover{
+  background-color: #363636;
+}
+.button{
+  cursor: pointer;
+}
+.button:hover{
+  background-color: #363636;
+}
+.create{
+  position: absolute;
+font-family: 'Roboto', sans-serif;
+top:623px;
+left:850px;
+color: #393e46;
+font-size: 13px;
+
+}
+.hi{
+  text-decoration: none;
+}
+.conclusion{
+  position: relative;
+  background-color: white;
+  height: 40px;
+  top:595px;
+}
+.vector{
+  position: absolute;
+  top:6px;
+  color: #393e46;
+}
+.vec{
+  color: #393e46;
+  text-decoration: none;
+}
